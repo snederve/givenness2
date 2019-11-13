@@ -1,0 +1,15 @@
+.Canvas {
+    border: solid 1px darkgreen;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    margin-left: 50;
+}
+
+.Html {
+    width: 800px;
+}
+
+.Tooltip {
+    overflow: hidden !important;
+}
